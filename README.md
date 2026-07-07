@@ -3,7 +3,7 @@
 
 Analysis of 55,278 NYC restaurant inspections to predict poor food safety outcomes. This project merges two NYC OpenData government datasets: restaurant inspection results (2007 to 2026) and rodent inspection records (approximately 3 million rows), joined by ZIP code and month.
 
-# The central question: does area-level rodent activity predict restaurant food safety risk, or does prior inspection history matter more?
+## The central question: does area-level rodent activity predict restaurant food safety risk, or does prior inspection history matter more?
 
 # Key Finding
 
